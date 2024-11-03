@@ -1,6 +1,6 @@
-## Railway-Reservation-System
-# Name - AADITHYA R
-# Reg No - 212223240001
+# Railway-Reservation-System
+# Name - Sandeep S
+# Reg No - 212223220092
 # AIM
 To Develope the Railway Reservation System using Star UML tool.
 
