@@ -14,7 +14,7 @@ Rational Rose, SQL 8.0
 512MB RAM2, PENTIUM III PROCESSOR.
 
 # USE CASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/3f91a139-c7b1-4ae1-b456-c83ba2ed3c9e)
+ ![image](https://github.com/user-attachments/assets/1024bb86-2f98-4780-aad4-d4b129513828)
 
 # Class Diagram 
 ![image](https://github.com/user-attachments/assets/5efebcba-2523-4a60-a2ea-9af937dd252c)
